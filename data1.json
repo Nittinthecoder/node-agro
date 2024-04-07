@@ -1,0 +1,696 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Fresh Paddy",
+      "description": "Fresh Paddy Harvested from the lush fields of india, our premium paddy is the foundation of great rice. Carefully selected and untouched by processing, our paddy retains its natural goodness and authentic taste. Ideal for those who prefer to mill their rice at home or for agricultural use, our paddy promises freshness and quality in every grain. Experience the essence of pure rice with our premium paddy.",
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "price": 1000,
+      "rating": 0,
+      "stock": 94,
+      "brand": "AgroXPlanet",
+      "category": "Wholesale",
+      "seller": "linda",
+      "Bargain option": "yes",
+      "thumbnail": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "image1": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image2": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image3": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image4": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": "2",
+      "title": "Sugarcane",
+      "description": "Our pure sugarcane is harvested from the finest fields, ensuring sweetness and quality. Use it to sweeten your beverages or add flavor to your desserts.",
+      "price": 1200,
+      "rating": 4.44,
+      "stock": 34,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Wholesale",
+      "seller": "linda",
+      "Bargain option": "no",
+      "thumbnail": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+      "images": [
+        "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+        "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+        "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+        "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D"
+      ],
+      "image1": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+      "image2": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+      "image3": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+      "image4": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D"
+    },
+    {
+      "id": "3",
+      "title": "Organic Wheat",
+      "description": "Our organic wheat is sourced from trusted farmers who use sustainable practices. It's perfect for baking bread, making pasta, or adding to your favorite recipes.",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 36,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Wholesale",
+      "seller": "linda",
+      "Bargain option": "yes",
+      "thumbnail": "https://media.istockphoto.com/id/494258449/photo/spelt.jpg?s=1024x1024&w=is&k=20&c=UTzgYQuEzUStj3qf5We_tBvxe8DqmVr83IahXOmerNw=",
+      "images": [
+        "https://media.istockphoto.com/id/494258449/photo/spelt.jpg?s=1024x1024&w=is&k=20&c=UTzgYQuEzUStj3qf5We_tBvxe8DqmVr83IahXOmerNw=",
+        "https://media.istockphoto.com/id/494258449/photo/spelt.jpg?s=1024x1024&w=is&k=20&c=UTzgYQuEzUStj3qf5We_tBvxe8DqmVr83IahXOmerNw=",
+        "https://media.istockphoto.com/id/494258449/photo/spelt.jpg?s=1024x1024&w=is&k=20&c=UTzgYQuEzUStj3qf5We_tBvxe8DqmVr83IahXOmerNw=",
+        "https://media.istockphoto.com/id/494258449/photo/spelt.jpg?s=1024x1024&w=is&k=20&c=UTzgYQuEzUStj3qf5We_tBvxe8DqmVr83IahXOmerNw="
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Premium Cotton",
+      "description": "Our premium cotton is soft, durable, and perfect for all your crafting needs. Whether you're making clothes, quilts, or home decor, our cotton is the ideal choice.",
+      "price": 280,
+      "rating": 4.3,
+      "stock": 123,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Wholesale",
+      "seller": "linda",
+      "Bargain option": "no",
+      "thumbnail": "https://images.unsplash.com/photo-1601379326855-333ada09757e?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1601379326855-333ada09757e?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601379326855-333ada09757e?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601379326855-333ada09757e?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1601379326855-333ada09757e?q=80&w=3456&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Fresh Corn (Maize)",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "category": "Retail",
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "seller": "linda",
+      "thumbnail": "https://images.unsplash.com/photo-1692607931390-3a768f3d1a53?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1692607931390-3a768f3d1a53?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1692607931390-3a768f3d1a53?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1692607931390-3a768f3d1a53?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1692607931390-3a768f3d1a53?q=80&w=3474&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Golden Wheat",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://media.istockphoto.com/id/1737694524/photo/ripe-wheat-grains-flying-on-white-background.jpg?s=1024x1024&w=is&k=20&c=rYQOPBl1eYCaGHb5OF0yo4sl_aDeqzGXQzAR13pdg3o=",
+      "images": [
+        "https://media.istockphoto.com/id/1737694524/photo/ripe-wheat-grains-flying-on-white-background.jpg?s=1024x1024&w=is&k=20&c=rYQOPBl1eYCaGHb5OF0yo4sl_aDeqzGXQzAR13pdg3o=",
+        "https://media.istockphoto.com/id/1737694524/photo/ripe-wheat-grains-flying-on-white-background.jpg?s=1024x1024&w=is&k=20&c=rYQOPBl1eYCaGHb5OF0yo4sl_aDeqzGXQzAR13pdg3o=",
+        "https://media.istockphoto.com/id/1737694524/photo/ripe-wheat-grains-flying-on-white-background.jpg?s=1024x1024&w=is&k=20&c=rYQOPBl1eYCaGHb5OF0yo4sl_aDeqzGXQzAR13pdg3o=",
+        "https://media.istockphoto.com/id/1737694524/photo/ripe-wheat-grains-flying-on-white-background.jpg?s=1024x1024&w=is&k=20&c=rYQOPBl1eYCaGHb5OF0yo4sl_aDeqzGXQzAR13pdg3o="
+      ]
+    },
+    {
+      "id": "7",
+      "title": "ADT 35-PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg",
+      "images": [
+        "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg",
+        "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg",
+        "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg",
+        "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Wholesale",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Wholesale",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "category": "Retail",
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "category": "Retail",
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "BPT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "brand": "AgroXPlanet",
+      "category": "Retail",
+      "seller": "linda",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ]
+    },
+    {
+      "id": "9830",
+      "title": "FFT - PADDY",
+      "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "details": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+      "price": 210,
+      "stock": 22,
+      "category": "Wholesale",
+      "thumbnail": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "image1": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "image2": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "image3": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "image4": "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+      "images": [
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png",
+        "https://5.imimg.com/data5/LS/LP/GLADMIN-2938747/paddy-bpt-5204-500x500.png"
+      ],
+      "rating": 0,
+      "deleted": true
+    }
+  ],
+  "categories": [
+    {
+      "value": "Wholesale",
+      "label": "Wholesale",
+      "checked": false,
+      "id": "6f6e"
+    },
+    {
+      "value": "Retail",
+      "label": "Retail",
+      "checked": false,
+      "id": "4879"
+    }
+  ],
+  "users": [
+    {
+      "id": "1257",
+      "email": "testuser@gamil.com",
+      "password": "1234Admin",
+      "addresses": [
+        {
+          "name": "Nittin Nobby Mathew",
+          "email": "mathewnittin182002@gmail.com",
+          "phone": "8610685517",
+          "street": "Swami Mudaliar St",
+          "city": "Puducherry",
+          "state": "Pondicherry",
+          "pinCode": "605001"
+        }
+      ],
+      "role": "user"
+    },
+    {
+      "id": "11f7",
+      "email": "admin@gmail.com",
+      "password": "1234Admin",
+      "addresses": [
+        {
+          "name": "Nittin Nobby Mathew",
+          "email": "mathewnittin182002@gmail.com",
+          "phone": "8610685517",
+          "street": "Swami Mudaliar St",
+          "city": "Puducherry",
+          "state": "Pondicherry",
+          "pinCode": "605001"
+        }
+      ],
+      "role": "admin"
+    }
+  ],
+  "cart": [
+    {
+      "id": "1f3c",
+      "title": "Fresh Paddy",
+      "description": "Fresh Paddy Harvested from the lush fields of india, our premium paddy is the foundation of great rice. Carefully selected and untouched by processing, our paddy retains its natural goodness and authentic taste. Ideal for those who prefer to mill their rice at home or for agricultural use, our paddy promises freshness and quality in every grain. Experience the essence of pure rice with our premium paddy.",
+      "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+      "price": 1000,
+      "rating": 0,
+      "stock": 94,
+      "brand": "AgroXPlanet",
+      "category": "Wholesale",
+      "seller": "linda",
+      "Bargain option": "yes",
+      "thumbnail": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "images": [
+        "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ],
+      "image1": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image2": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image3": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image4": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productId": "1",
+      "quantity": 1,
+      "user": "11f7"
+    }
+  ],
+  "orders": [
+    {
+      "id": "70b9",
+      "items": [
+        {
+          "id": "1",
+          "title": "Fresh Paddy",
+          "description": "Fresh Paddy Harvested from the lush fields of india, our premium paddy is the foundation of great rice. Carefully selected and untouched by processing, our paddy retains its natural goodness and authentic taste. Ideal for those who prefer to mill their rice at home or for agricultural use, our paddy promises freshness and quality in every grain. Experience the essence of pure rice with our premium paddy.",
+          "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+          "price": 1000,
+          "rating": 0,
+          "stock": 94,
+          "brand": "AgroXPlanet",
+          "category": "Wholesale",
+          "seller": "linda",
+          "Bargain option": "yes",
+          "thumbnail": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "images": [
+            "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+          ],
+          "image1": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "image2": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "image3": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "image4": "https://images.unsplash.com/photo-1603106116068-02fc27fe5131?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+          "quantity": 1,
+          "user": "11f7",
+          "product": "1"
+        }
+      ],
+      "totalAmount": 1000,
+      "totalItems": 1,
+      "user": {
+        "id": "11f7",
+        "email": "admin@gmail.com",
+        "password": "1234Admin",
+        "addresses": [
+          {
+            "name": "Nittin Nobby Mathew",
+            "email": "mathewnittin182002@gmail.com",
+            "phone": "8610685517",
+            "street": "Swami Mudaliar St",
+            "city": "Puducherry",
+            "state": "Pondicherry",
+            "pinCode": "605001"
+          }
+        ],
+        "role": "admin"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Nittin Nobby Mathew",
+        "email": "mathewnittin182002@gmail.com",
+        "phone": "8610685517",
+        "street": "Swami Mudaliar St",
+        "city": "Puducherry",
+        "state": "Pondicherry",
+        "pinCode": "605001"
+      },
+      "status": "Delivered"
+    },
+    {
+      "id": "717c",
+      "items": [
+        {
+          "id": "2",
+          "title": "Sugarcane",
+          "description": "Our pure sugarcane is harvested from the finest fields, ensuring sweetness and quality. Use it to sweeten your beverages or add flavor to your desserts.",
+          "price": 1200,
+          "rating": 4.44,
+          "stock": 34,
+          "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+          "brand": "AgroXPlanet",
+          "category": "Wholesale",
+          "seller": "linda",
+          "Bargain option": "no",
+          "thumbnail": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+          "images": [
+            "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+            "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+            "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+            "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D"
+          ],
+          "image1": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+          "image2": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+          "image3": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+          "image4": "https://media.istockphoto.com/id/157608572/photo/sugar-cane-sticks-isolated-on-white-backdrop.jpg?s=1024x1024&w=is&k=20&c=FyTvxuarDj7WswZcfuO-M7O2Wi5TKNBorG8h4-nlATU%3D",
+          "quantity": 1,
+          "user": "1257",
+          "product": "2"
+        }
+      ],
+      "totalAmount": 1200,
+      "totalItems": 1,
+      "user": {
+        "id": "1257",
+        "email": "testuser@gamil.com",
+        "password": "1234Admin",
+        "addresses": [
+          {
+            "name": "Nittin Nobby Mathew",
+            "email": "mathewnittin182002@gmail.com",
+            "phone": "8610685517",
+            "street": "Swami Mudaliar St",
+            "city": "Puducherry",
+            "state": "Pondicherry",
+            "pinCode": "605001"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "card",
+      "selectedAddress": {
+        "name": "Nittin Nobby Mathew",
+        "email": "mathewnittin182002@gmail.com",
+        "phone": "8610685517",
+        "street": "Swami Mudaliar St",
+        "city": "Puducherry",
+        "state": "Pondicherry",
+        "pinCode": "605001"
+      },
+      "status": "Dispatched"
+    },
+    {
+      "id": "d0f0",
+      "items": [
+        {
+          "id": "7",
+          "title": "ADT 35-PADDY",
+          "description": "Our fresh corn is harvested at peak ripeness to ensure maximum flavor and sweetness. Enjoy it boiled, grilled, or as an ingredient in your favorite dishes.",
+          "price": 499,
+          "discountPercentage": 10.58,
+          "rating": 4.09,
+          "stock": 32,
+          "details": "Experience convenience and quality with our premium ecommerce platform. Explore a vast selection of products, from tech gadgets to fashion essentials. Enjoy secure transactions, fast delivery, and top-notch customer service. Shop confidently with us today!",
+          "brand": "AgroXPlanet",
+          "seller": "linda",
+          "thumbnail": "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg",
+          "images": [
+            "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg",
+            "https://5.imimg.com/data5/ANDROID/Default/2022/11/BD/XL/NG/52128106/product-jpeg-250x250.jpg"
+          ],
+          "quantity": 2,
+          "user": "1257",
+          "product": "7"
+        }
+      ],
+      "totalAmount": 998,
+      "totalItems": 2,
+      "user": {
+        "id": "1257",
+        "email": "testuser@gamil.com",
+        "password": "1234Admin",
+        "addresses": [
+          {
+            "name": "Nittin Nobby Mathew",
+            "email": "mathewnittin182002@gmail.com",
+            "phone": "8610685517",
+            "street": "Swami Mudaliar St",
+            "city": "Puducherry",
+            "state": "Pondicherry",
+            "pinCode": "605001"
+          }
+        ],
+        "role": "user"
+      },
+      "paymentMethod": "cash",
+      "selectedAddress": {
+        "name": "Nittin Nobby Mathew",
+        "email": "mathewnittin182002@gmail.com",
+        "phone": "8610685517",
+        "street": "Swami Mudaliar St",
+        "city": "Puducherry",
+        "state": "Pondicherry",
+        "pinCode": "605001"
+      },
+      "status": "Processing"
+    }
+  ]
+}
